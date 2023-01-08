@@ -1,2 +1,0 @@
-Mission_Coordination_project/evry_project_description:Mission_Coordination_project/evry_project_plugins:Mission_Coordination_project/evry_project_strategy
--DCATKIN_DEVEL_PREFIX=/home/efesendil/TP1_mission_ws/devel -DCMAKE_INSTALL_PREFIX=/home/efesendil/TP1_mission_ws/install -G Unix Makefiles
