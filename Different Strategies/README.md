@@ -1,1 +1,1 @@
-### Here are the videos for each 3 stragy:
+### Here are the videos for each 3 stragy
