@@ -17,3 +17,7 @@ https://user-images.githubusercontent.com/34871301/211213420-d4531b35-257a-4c11-
 
 https://user-images.githubusercontent.com/34871301/211213423-a1a826f2-de6c-460f-adf2-bbdcb424150c.mp4
 
+# 4. We don't have a complete robust strategy for the moment. In order to test it, you should modify the lev1.world to add objects on the map.
+
+![default_gzclient_camera(1)-2023-01-12T15_25_51 874530](https://user-images.githubusercontent.com/34871301/212093022-d7ea6744-3f6b-433f-820b-28ce22f3529e.jpg)
+
